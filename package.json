@@ -1,0 +1,27 @@
+{
+  "name": "nawazsk.github.io",
+  "version": "1.0.0",
+  "description": "Application Developer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 2000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawazsk/nawazsk.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawazsk/nawazsk.github.io/issues"
+  },
+  "homepage": "https://github.com/nawazsk/nawazsk.github.io#readme",
+  "dependencies": {
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
